@@ -1,11 +1,11 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.23",
+	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "AWSCoreCognito",
+			"Name": "AwsCognito",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/8cbe4cdd049d4a58a6042b623d4dfe5c"
 		}
