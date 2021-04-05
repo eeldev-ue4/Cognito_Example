@@ -8,6 +8,4 @@ Build/
 **/Binaries
 **/Build
 *.sln
-SteamCoreExample/Plugins/
-SteamCoreWebExample/Plugins/
-Plugins/AWSCoreCognito
+Plugins/AwsCognito
